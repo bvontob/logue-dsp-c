@@ -5,11 +5,12 @@ __logue-dsp-c__ is a reimplementation of some of the DSP routines from Korg's
 
 ## License
 
-This project is licensed under the BSD 3-Clause License - see the LICENSE file for details.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE)
+file for details.
 
 ## Acknowledgments
 
 Based on C++ code from Korg's [logue-sdk](https://github.com/korginc/logue-sdk), also
-released under the BSD 3-Clause License, Copyright
+released under the BSD 3-Clause License, Copyright (c) 2018, KORG INC.
 * [Original Documentation](https://korginc.github.io/logue-sdk/ref/nutekt-digital/v1.1-0/html/namespacedsp.html)
 * [Original Files](https://github.com/korginc/logue-sdk/tree/master/platform/nutekt-digital/inc/dsp)
